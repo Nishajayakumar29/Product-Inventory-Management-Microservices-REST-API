@@ -37,7 +37,7 @@ The Inventory Service calls the Product Service via REST API to check product va
 
 - To provide a scalable backend system for e-commerce-style product and inventory management.
 
-#Features
+# Features
 a. Product Service:
 
 - Add, update, delete, and view product details.
@@ -58,7 +58,7 @@ b. Inventory Service:
 
 - Validation with Product Service for product existence.
 
-#Tech Stack
+# Tech Stack
 - Backend: Java, Spring Boot
 
 - Database: MySQL (via Spring Data JPA)
